@@ -1,0 +1,17 @@
+fileFormatVersion: 2
+guid: 846ddd6dabc99d542b772d9dcf07dddd
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - target: {instanceID: 0}
+  - soundSource: {instanceID: 0}
+  - dashClip: {instanceID: 0}
+  - blastClip: {instanceID: 0}
+  - _charController: {instanceID: 0}
+  - destroyedObject: {fileID: 100000, guid: 10a19ab74eeae2446bd4b396ca36b101, type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
